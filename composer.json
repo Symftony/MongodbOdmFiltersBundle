@@ -1,5 +1,5 @@
 {
-    "name": "symftony/mongodb-odm-filter-bundle",
+    "name": "symftony/mongodb-odm-filters-bundle",
     "description": "This bundle just allow you to inject service in mongoDB ODM configuration filters",
     "type": "symfony-bundle",
     "license": "MIT",
